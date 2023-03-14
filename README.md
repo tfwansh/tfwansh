@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there 👋 !
 
-<!--
-**tfwansh/tfwansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**You can refer to me as tfwansh.**
 
-Here are some ideas to get you started:
+### **⚡ Socials:**  
+E-mail: mailansh@pm.me    
+Website: https://tfwansh.github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Twitter: https://twitter.com/tfwansh  
+Github: https://github.com/tfwansh
+
+Youtube: https://www.youtube.com/@tfwansh  
+Twitch: https://www.twitch.tv/tfwansh
+
+Instagram: https://www.instagram.com/tfwansh/  
+Reddit: https://www.reddit.com/user/tfwansh
+
+---
+### **🔭 About Me:**
+
+Computer Science Undergrad, Freshman.  
+Currently busy creating a personal online brand. Content creation starts soon, apparently.
+
+---
+### **💬 Interests:**
+
+tech, music, movies, writing, film making, photography, fitness, video games, guitar, drums, finance, economics, startups, products, marketing, social media, football, basketball, programming, chess, choreography, cooking, cars, F1, geopolitics, cybersecurity, social engineering, constructed adventures/escape rooms, hiking, comedy.
+
+---
+#### *📫 Wanna reach out?*  
+I prefer [E-mail](mailto:mailansh@pm.me). [Instagram](https://www.instagram.com/tfwansh/) works too.
