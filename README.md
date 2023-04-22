@@ -1,6 +1,6 @@
 ### Hi there 👋 !
 
-**The name is Ansh. Online, I go by tfwansh.**
+**The name is Ansh.**
 
 ### **⚡ Socials:**  
 - E-mail: [mailansh@pm.me](mailto:mailansh@pm.me)      
@@ -19,12 +19,13 @@
 ### **🔭 About Me:**
 
 - Computer Science Undergrad, Freshman(soon).  
-- Currently busy creating a personal online brand. Content creation starts soon, apparently.
+<!---- Currently busy creating a personal online brand. Content creation starts soon, apparently.--->
+- I love hoarding cool email addresses for myself and others. My favourite one is *somailtome@gmail.com*.
 
 ---
 ### **💬 You can talk to me about:**
 
-tech, music, movies, writing, film making, photography, video games, drums, basketball, programming, chess, choreography, cooking, F1, cybersecurity, social engineering, constructed adventures/escape rooms, comedy.
+tech, music, movies, writing, film making, photography, video games, drums, basketball, programming, chess, choreography, architecture, cooking, F1, cybersecurity, social engineering, constructed adventures/escape rooms, comedy.
 
 
 ---
