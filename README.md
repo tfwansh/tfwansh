@@ -25,7 +25,7 @@
 ---
 ### **💬 You can talk to me about:**
 
-tech, music, movies, writing, film making, photography, video games, drums, basketball, programming, chess, choreography, architecture, cooking, F1, cybersecurity, social engineering, constructed adventures/escape rooms, comedy.
+tech, music, movies, writing, film making, photography, video games, drums, basketball, programming, chess, architecture, food, F1, cybersecurity, social engineering, constructed adventures/escape rooms, comedy.
 
 
 ---
