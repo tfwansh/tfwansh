@@ -23,7 +23,8 @@ js:
 - Youtube: [https://www.youtube.com/@tfwansh](https://www.youtube.com/@tfwansh)   
 - Twitch: [https://www.twitch.tv/tfwansh](https://www.twitch.tv/tfwansh)
 
-- Instagram: [https://www.instagram.com/tfwansh/](https://www.instagram.com/tfwansh/)      
+- Instagram: [https://www.instagram.com/tfwansh/](https://www.instagram.com/tfwansh/)
+- Threads: @tfwansh  
 <!--- - Reddit: [https://www.reddit.com/user/tfwansh](https://www.reddit.com/user/tfwansh) --->
 
 ---
@@ -43,7 +44,7 @@ tech, music, movies, writing, film making, photography, video games, drums, bask
 #### *📫 Wanna reach out?*  
 - [E-mail](mailto:mailansh@proton.me) [Fastest Response]
 - [Instagram](https://www.instagram.com/tfwansh/).
-- **Discord:** <button onclick="copyToClipboard()" style="background-color: #222; color: #fff; border: 2px; border-radius: 7px; solid #fff; padding: 5px 9px; font-size: 16px; cursor: pointer;">vercetti#7058 &#x1f4cb;</button>
+- **Discord:** <button onclick="copyToClipboard()" style="background-color: #222; color: #fff; border: 2px; border-radius: 7px; solid #fff; padding: 5px 9px; font-size: 16px; cursor: pointer;">vercetti#7058. &#x1f4cb;</button>
 
 <script>
 function copyToClipboard() {
